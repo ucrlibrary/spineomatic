@@ -1,4 +1,5 @@
-﻿Rivera Library+Education Oversize=Educ;Oversize
+﻿
+Rivera Library+Education Oversize=Educ;Oversize
 Rivera Library+Education Textbook=Educ;Textbook
 Rivera Library+Education Textbook Big Book=Educ;Txtbk;BigBook
 Rivera Library+Education Juvenile=Educ;Juv
