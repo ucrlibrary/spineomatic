@@ -1,5 +1,4 @@
-﻿ï»¿
-Music Library+Music Cassette=Music;Cassette
+﻿Music Library+Music Cassette=Music;Cassette
 Music Library+Music CD Oversize=Music;CD;Oversize
 Music Library+Music CD=Music;CD
 Music Library+Music Circulation=Music;Circ Desk
