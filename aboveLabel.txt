@@ -264,3 +264,7 @@ Special Collections & University Archives+Special Collections Video Tape=SpCol;V
 Special Collections & University Archives+Special Collections=SpCol
 Special Collections & University Archives+WRCA Oversize=SpCol;WRCA;Oversize
 Special Collections & University Archives+WRCA=SpCol;WRCA
+Special Collections & University Archives+Special Collections Leaves Vault=SpCol;Leaves;V
+Special Collections & University Archives+Special Collections Leaves Tiny Vault=SpCol;Leaves;Tiny;V
+Special Collections & University Archives+Special Collections Leaves Oversize Vault=SpCol;Leaves;Oversize;V
+Special Collections & University Archives+Special Collections Leaves Flat Vault=SpCol;Leaves;Flat;V
