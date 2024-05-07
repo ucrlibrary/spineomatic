@@ -199,6 +199,7 @@ Special Collections & University Archives+Costo Collection Reading Room=Rivera;C
 Special Collections & University Archives+DVD=SpCol;DVD
 Special Collections & University Archives+Eaton Ace=SpCol;Eaton;Ace
 Special Collections & University Archives+Eaton CD=SpCol;Eaton;CD
+Special Collections & University Archives+Eaton Comics=SpCol;Eaton;Comics
 Special Collections & University Archives+Eaton Computer File=SpCol;Eaton;CompFile
 Special Collections & University Archives+Eaton DVD=SpCol;Eaton;DVD
 Special Collections & University Archives+Eaton Flat Vault=SpCol;Eaton;Flat;V
