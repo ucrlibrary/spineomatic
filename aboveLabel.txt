@@ -1,4 +1,4 @@
-﻿
+
 Orbach Library+Acquisitions Department=Acq;Dept.
 Orbach Library+General Collection=Orbach
 Orbach Library+Map Air Photo=Map;Air;Photo
@@ -200,13 +200,10 @@ Special Collections & University Archives+Costo Collection Reading Room=Rivera;C
 Special Collections & University Archives+DVD=SpCol;DVD
 Special Collections & University Archives+Eaton Ace=SpCol;Eaton;Ace
 Special Collections & University Archives+Eaton CD=SpCol;Eaton;CD
-Special Collections & University Archives+Eaton Comics=SpCol;Eaton;Comics
 Special Collections & University Archives+Eaton Computer File=SpCol;Eaton;CompFile
 Special Collections & University Archives+Eaton DVD=SpCol;Eaton;DVD
 Special Collections & University Archives+Eaton Flat Vault=SpCol;Eaton;Flat;V
 Special Collections & University Archives+Eaton Flat=SpCol;Eaton;Flat
-Special Collections & University Archives+Eaton Media=SpCol;Eaton;Media
-Special Collections & University Archives+Eaton Media Oversize=SpCol;Eaton;Media;Oversize
 Special Collections & University Archives+Eaton Oversize Vault=SpCol;Eaton;Oversize V
 Special Collections & University Archives+Eaton Oversize=SpCol;Eaton;Oversize
 Special Collections & University Archives+Eaton Record=SpCol;Eaton;LP
@@ -241,6 +238,7 @@ Special Collections & University Archives+Special Collections Pamphlets=SpCol;Pa
 Special Collections & University Archives+Special Collections Photo Oversize=SpCol;Photo;Oversize
 Special Collections & University Archives+Special Collections Photo Tiny=SpCol;Photo;Tiny
 Special Collections & University Archives+Special Collections Photo=SpCol;Photo
+Special Collections & University Archives+Special Collections SCUA Mobile Print Collection=Spcmobilep
 Special Collections & University Archives+Special Collections Snyder Collection=Snyder
 Special Collections & University Archives+Special Collections Staff Reference=SpCol;Staff;Reference
 Special Collections & University Archives+Special Collections Thesis Oversize=SpCol;Thesis;Oversize
